@@ -1,0 +1,16 @@
+{
+  "name": "uponly-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1",
+    "server": "^1.0.41"
+  }
+}
